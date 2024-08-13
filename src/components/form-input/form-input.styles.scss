@@ -9,7 +9,8 @@ $main-color: black;
 
 .group {
 	position: relative;
-	margin: 45px 0;
+	margin: 40px 0;
+	overflow: hidden;
 
 	.form-input {
 		background: none;
